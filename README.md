@@ -4,6 +4,8 @@ For most data structures, you need to know how to
 • Search for a specified item. 
 • Delete a specified item.
 
+The java.util package contains data structures, such as Vector (an extensible array), Stack, Dictionary, and Hashtable.
+
 1. Array: Quick insertion, very Slow search, fast access if index slow deletion, known. fixed size.
 2. Ordered array: Quicker search than Slow insertion and unsorted array. deletion, fixed size.
 3. Stack: Provides last-in, Slow access to first-out access. other items.
